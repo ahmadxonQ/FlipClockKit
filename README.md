@@ -127,6 +127,3 @@ FlipClockView(remainingSeconds: timeLeft)
 | `groupSpacing` | `CGFloat`       | `32`           | Gap between minutes and seconds groups   |
 | `flipDuration` | `Double`        | `0.18`         | Duration (seconds) of each flip phase    |
 
-## License
-
-MIT
