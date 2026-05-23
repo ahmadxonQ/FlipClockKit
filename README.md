@@ -21,7 +21,7 @@ Or add it manually to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YOUR_USERNAME/FlipClockKit.git", from: "1.0.0"),
+    .package(url: "https://github.com/ahmadxonQ/FlipClockKit.git", from: "1.0.0"),
 ],
 targets: [
     .target(dependencies: ["FlipClockKit"]),
